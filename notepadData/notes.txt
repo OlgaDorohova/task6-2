@@ -1,0 +1,6 @@
+topic="date";date="2023-02-03";email="asdf@fsdsf.com";message="date with Jane at 8p.m 10-02-2023"
+topic="date";date="2023-04-16";email="asdf@fsdsf.com";message="date with Maria at 6p.m 18-04-2023"
+topic="birthday";date="2021-05-23";email="asdf@fsdsf.com";message="sister's birthday; 19-05-2016"
+topic="birthday";date="2021-05-23";email="asdf@fsdsf.com";message="grandma's birthday;13-08-1947"
+topic="birthday";date="2023-05-04";email="asdf@fsdsf.com";message="Maria's birthday;22-05-2000"
+topic="appointment";date="2023-08-23";email="sadfrt@sdf.com";message="the dentist appointment in 15-09-23"
